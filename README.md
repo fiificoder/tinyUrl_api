@@ -1,4 +1,4 @@
-# SHORTEN URL
+# Shorten URL
 
 ## tiny url API
 
