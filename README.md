@@ -28,7 +28,7 @@ response, err := http.Get(getReqUrl)
 ## Run
 Program must take not less than two arguments, i.e should include program name and url to be shortened.
 
-My link here to be shortened is: https://github.com/fiificoder/CLI-calculator/blob/master/README.md
+My URL to be shortened is: https://github.com/fiificoder/CLI-calculator/blob/master/README.md
 
 
 ```Terminal
