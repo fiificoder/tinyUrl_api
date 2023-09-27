@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Tiny URL API consumption")
+	fmt.Println("-----------Tiny URL API--------")
 
 	if len(os.Args) != 2 {
 		fmt.Fprintf(os.Stderr, "Usage: %s URL\n", os.Args[0])
